@@ -1,0 +1,15 @@
+/workspaces/GerenciadorDeLivros/GerenciadorDeLivros/bin/Debug/net7.0/GerenciadorDeLivros
+/workspaces/GerenciadorDeLivros/GerenciadorDeLivros/bin/Debug/net7.0/GerenciadorDeLivros.deps.json
+/workspaces/GerenciadorDeLivros/GerenciadorDeLivros/bin/Debug/net7.0/GerenciadorDeLivros.runtimeconfig.json
+/workspaces/GerenciadorDeLivros/GerenciadorDeLivros/bin/Debug/net7.0/GerenciadorDeLivros.dll
+/workspaces/GerenciadorDeLivros/GerenciadorDeLivros/bin/Debug/net7.0/GerenciadorDeLivros.pdb
+/workspaces/GerenciadorDeLivros/GerenciadorDeLivros/obj/Debug/net7.0/GerenciadorDeLivros.csproj.AssemblyReference.cache
+/workspaces/GerenciadorDeLivros/GerenciadorDeLivros/obj/Debug/net7.0/GerenciadorDeLivros.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/GerenciadorDeLivros/GerenciadorDeLivros/obj/Debug/net7.0/GerenciadorDeLivros.AssemblyInfoInputs.cache
+/workspaces/GerenciadorDeLivros/GerenciadorDeLivros/obj/Debug/net7.0/GerenciadorDeLivros.AssemblyInfo.cs
+/workspaces/GerenciadorDeLivros/GerenciadorDeLivros/obj/Debug/net7.0/GerenciadorDeLivros.csproj.CoreCompileInputs.cache
+/workspaces/GerenciadorDeLivros/GerenciadorDeLivros/obj/Debug/net7.0/GerenciadorDeLivros.dll
+/workspaces/GerenciadorDeLivros/GerenciadorDeLivros/obj/Debug/net7.0/refint/GerenciadorDeLivros.dll
+/workspaces/GerenciadorDeLivros/GerenciadorDeLivros/obj/Debug/net7.0/GerenciadorDeLivros.pdb
+/workspaces/GerenciadorDeLivros/GerenciadorDeLivros/obj/Debug/net7.0/GerenciadorDeLivros.genruntimeconfig.cache
+/workspaces/GerenciadorDeLivros/GerenciadorDeLivros/obj/Debug/net7.0/ref/GerenciadorDeLivros.dll
